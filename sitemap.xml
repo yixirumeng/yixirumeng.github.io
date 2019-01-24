@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2019/01/11/vuex-source-code-example/</loc>
+    
+    <lastmod>2019-01-24T12:39:02.685Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2019/01/20/vuex-source-code-mapActions/</loc>
+    
+    <lastmod>2019-01-24T12:38:57.579Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2019/01/17/vuex-source-code-mapGetters/</loc>
+    
+    <lastmod>2019-01-24T12:38:53.357Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2019/01/24/vuex-source-code-mapMutations/</loc>
+    
+    <lastmod>2019-01-24T12:38:48.795Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2019/01/14/vuex-source-code-mapState/</loc>
+    
+    <lastmod>2019-01-24T12:38:44.532Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2019/01/05/vuex-source-code-Store/</loc>
+    
+    <lastmod>2019-01-24T12:38:36.185Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/12/31/2018-summary/</loc>
+    
+    <lastmod>2018-12-31T13:13:40.078Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/12/26/es5-and-es6-extends/</loc>
+    
+    <lastmod>2018-12-31T13:09:57.725Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/12/20/javascript-summary-of-knowledge-summary1/</loc>
+    
+    <lastmod>2018-12-31T13:08:57.975Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/12/15/reselect-source-code-analysis-createStructuredSelector/</loc>
+    
+    <lastmod>2018-12-31T13:07:54.844Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/12/08/reselect-source-code-analysis-createSelector%E3%80%81createSelectorCreator/</loc>
+    
+    <lastmod>2018-12-31T13:06:38.358Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/10/13/vue2-data-computed/</loc>
+    
+    <lastmod>2018-12-08T02:15:40.630Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/10/25/vue2-watch-analysis/</loc>
+    
+    <lastmod>2018-12-08T02:15:24.080Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/11/28/redux-actions-source-code-analysis-handleAction/</loc>
+    
+    <lastmod>2018-12-08T01:56:07.246Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/12/02/redux-actions-source-code-analysis-combineActions/</loc>
+    
+    <lastmod>2018-12-08T01:44:43.212Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/11/30/redux-actions-source-code-analysis-handleActions/</loc>
+    
+    <lastmod>2018-12-08T01:44:38.612Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/11/25/redux-actions-source-code-analysis-createActions/</loc>
+    
+    <lastmod>2018-12-08T01:44:28.159Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/11/23/redux-actions-source-code-analysis-createAction/</loc>
+    
+    <lastmod>2018-12-08T01:44:22.375Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/11/16/redux-thunk-source-code-analysis/</loc>
+    
+    <lastmod>2018-12-08T01:33:33.221Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/11/13/redux-source-code-analysis-applyMiddleware/</loc>
+    
+    <lastmod>2018-11-14T11:34:57.070Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/11/12/redux-source-code-analysis-compose/</loc>
+    
+    <lastmod>2018-11-14T11:33:57.064Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/11/11/redux-source-code-analysis-bindActionCreators/</loc>
+    
+    <lastmod>2018-11-14T11:33:02.572Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/11/10/redux-source-code-analysis-combineReducer/</loc>
+    
+    <lastmod>2018-11-14T11:32:12.371Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/11/09/redux-source-code-analysis-createStore/</loc>
+    
+    <lastmod>2018-11-14T11:30:56.837Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/11/06/react16-context-Api/</loc>
+    
+    <lastmod>2018-11-14T11:29:19.830Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/09/30/javascript-interview-run-mechanism/</loc>
+    
+    <lastmod>2018-11-09T14:04:19.279Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/11/01/react-getDerivedStateFromProps/</loc>
+    
+    <lastmod>2018-11-01T10:45:58.297Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/10/16/vue2-computed-mutual-call-and-more-watch/</loc>
+    
+    <lastmod>2018-10-25T13:32:00.836Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/10/06/why-compoments-must-import-react/</loc>
+    
+    <lastmod>2018-10-25T13:22:49.270Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/10/08/react-and-vue2-component-single-root/</loc>
+    
+    <lastmod>2018-10-25T13:15:59.350Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/09/16/react-router4-prompt-custom-md/</loc>
+    
+    <lastmod>2018-09-15T18:07:40.705Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/08/18/promise-then-second-param-md/</loc>
+    
+    <lastmod>2018-08-18T10:42:19.480Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/08/12/tcp/</loc>
+    
+    <lastmod>2018-08-11T16:20:00.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/04/02/vue-cli-environment/</loc>
+    
+    <lastmod>2018-04-02T14:00:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/03/03/browser-tab-change/</loc>
+    
+    <lastmod>2018-03-03T04:52:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/03/03/scroll-load/</loc>
+    
+    <lastmod>2018-03-03T04:48:54.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2018/01/13/not-load-change-url/</loc>
+    
+    <lastmod>2018-01-13T05:06:40.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2017/12/31/javascript-ajax/</loc>
+    
+    <lastmod>2017-12-31T07:57:22.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2017/12/09/hover-event/</loc>
+    
+    <lastmod>2017-12-09T07:12:10.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2017/12/02/border-triangle/</loc>
+    
+    <lastmod>2017-12-02T11:03:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2017/11/26/vue-components-develop/</loc>
+    
+    <lastmod>2017-11-26T04:01:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2017/11/09/image-words-alignment/</loc>
+    
+    <lastmod>2017-11-26T03:55:04.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2017/10/31/nocache-loading/</loc>
+    
+    <lastmod>2017-10-31T13:26:04.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2017/10/31/propagation-capture/</loc>
+    
+    <lastmod>2017-10-31T13:25:50.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2017/10/14/css-horizontal-vertical-center/</loc>
+    
+    <lastmod>2017-10-14T08:39:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/2017/10/04/vue-$on/</loc>
+    
+    <lastmod>2017-10-14T08:38:56.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yixirumeng.github.io/tags/index.html</loc>
+    
+    <lastmod>2017-02-21T19:12:04.000Z</lastmod>
+    
+  </url>
+  
+</urlset>
